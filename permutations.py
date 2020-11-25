@@ -1,5 +1,5 @@
 '''
-Write a function that returns all permutations of a given list.
+    Write a function that returns all permutations of a given list.
 '''
 
 def perm_helper(prefix, suffix, ret):
